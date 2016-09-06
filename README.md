@@ -5,8 +5,4 @@ hello world!
 
 develop !
 
-<<<<<<< HEAD
-haha
-=======
 ------:debug!
->>>>>>> debug
